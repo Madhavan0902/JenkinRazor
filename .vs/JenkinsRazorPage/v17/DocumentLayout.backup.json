@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinsRazorPage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46D1F884-0146-4D10-A25D-9AF435853EE4}|RazorPageNunitTest\\RazorPageNunitTest.csproj|d:\\tools\\project\\assessments\\jenkins\\jenkinsrazorpage\\razorpagenunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46D1F884-0146-4D10-A25D-9AF435853EE4}|RazorPageNunitTest\\RazorPageNunitTest.csproj|solutionrelative:razorpagenunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB09405B-A19A-402B-9013-50FA9A705FB3}|JenkinsRazorPage\\JenkinsRazorPage.csproj|d:\\tools\\project\\assessments\\jenkins\\jenkinsrazorpage\\jenkinsrazorpage\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB09405B-A19A-402B-9013-50FA9A705FB3}|JenkinsRazorPage\\JenkinsRazorPage.csproj|solutionrelative:jenkinsrazorpage\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB09405B-A19A-402B-9013-50FA9A705FB3}|JenkinsRazorPage\\JenkinsRazorPage.csproj|d:\\tools\\project\\assessments\\jenkins\\jenkinsrazorpage\\jenkinsrazorpage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB09405B-A19A-402B-9013-50FA9A705FB3}|JenkinsRazorPage\\JenkinsRazorPage.csproj|solutionrelative:jenkinsrazorpage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB09405B-A19A-402B-9013-50FA9A705FB3}|JenkinsRazorPage\\JenkinsRazorPage.csproj|d:\\tools\\project\\assessments\\jenkins\\jenkinsrazorpage\\jenkinsrazorpage\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB09405B-A19A-402B-9013-50FA9A705FB3}|JenkinsRazorPage\\JenkinsRazorPage.csproj|solutionrelative:jenkinsrazorpage\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 15,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,41 +30,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinsRazorPage\\JenkinsRazorPage\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "JenkinsRazorPage\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinsRazorPage\\JenkinsRazorPage\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "JenkinsRazorPage\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T05:19:28.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinsRazorPage\\JenkinsRazorPage\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "JenkinsRazorPage\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinsRazorPage\\JenkinsRazorPage\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "JenkinsRazorPage\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T05:18:54.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinsRazorPage\\RazorPageNunitTest\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "RazorPageNunitTest\\UnitTest1.cs",
-              "ToolTip": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinsRazorPage\\RazorPageNunitTest\\UnitTest1.cs",
-              "RelativeToolTip": "RazorPageNunitTest\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T05:17:38.525Z",
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinsRazorPage\\JenkinsRazorPage\\Dockerfile",
+              "RelativeDocumentMoniker": "JenkinsRazorPage\\Dockerfile",
+              "ToolTip": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinsRazorPage\\JenkinsRazorPage\\Dockerfile",
+              "RelativeToolTip": "JenkinsRazorPage\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-25T06:26:56.864Z",
               "EditorCaption": ""
             }
           ]

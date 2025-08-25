@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinsRazorPage\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\tools\\project\\assessments\\jenkins\\jenkinsrazorpage\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB09405B-A19A-402B-9013-50FA9A705FB3}|JenkinsRazorPage\\JenkinsRazorPage.csproj|d:\\tools\\project\\assessments\\jenkins\\jenkinsrazorpage\\jenkinsrazorpage\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB09405B-A19A-402B-9013-50FA9A705FB3}|JenkinsRazorPage\\JenkinsRazorPage.csproj|solutionrelative:jenkinsrazorpage\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 15,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +31,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinsRazorPage\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinsRazorPage\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-25T06:27:30.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinsRazorPage\\JenkinsRazorPage\\Dockerfile",
+              "RelativeDocumentMoniker": "JenkinsRazorPage\\Dockerfile",
+              "ToolTip": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinsRazorPage\\JenkinsRazorPage\\Dockerfile",
+              "RelativeToolTip": "JenkinsRazorPage\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-25T06:26:56.864Z",
+              "EditorCaption": ""
             }
           ]
         },

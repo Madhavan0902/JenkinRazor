@@ -25,7 +25,6 @@ D:\Tools\Project\Assessments\Jenkins\JenkinsRazorPage\JenkinsRazorPage\obj\Debug
 D:\Tools\Project\Assessments\Jenkins\JenkinsRazorPage\JenkinsRazorPage\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\Tools\Project\Assessments\Jenkins\JenkinsRazorPage\JenkinsRazorPage\obj\Debug\net8.0\staticwebassets.development.json
 D:\Tools\Project\Assessments\Jenkins\JenkinsRazorPage\JenkinsRazorPage\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Tools\Project\Assessments\Jenkins\JenkinsRazorPage\JenkinsRazorPage\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Tools\Project\Assessments\Jenkins\JenkinsRazorPage\JenkinsRazorPage\obj\Debug\net8.0\JenkinsRazorPage.dll
 D:\Tools\Project\Assessments\Jenkins\JenkinsRazorPage\JenkinsRazorPage\obj\Debug\net8.0\refint\JenkinsRazorPage.dll
 D:\Tools\Project\Assessments\Jenkins\JenkinsRazorPage\JenkinsRazorPage\obj\Debug\net8.0\JenkinsRazorPage.pdb

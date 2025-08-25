@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Zj5XmIR4bSo=",
+  "dgSpecHash": "ymszDaj6cZM=",
   "success": true,
   "projectFilePath": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinsRazorPage\\RazorPageNunitTest\\RazorPageNunitTest.csproj",
   "expectedPackageFiles": [
@@ -84,6 +84,7 @@
     "C:\\Users\\madhavan.ramalingam\\.nuget\\packages\\microsoft.testplatform.adapterutilities\\17.13.0\\microsoft.testplatform.adapterutilities.17.13.0.nupkg.sha512",
     "C:\\Users\\madhavan.ramalingam\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.14.1\\microsoft.testplatform.objectmodel.17.14.1.nupkg.sha512",
     "C:\\Users\\madhavan.ramalingam\\.nuget\\packages\\microsoft.testplatform.testhost\\17.14.1\\microsoft.testplatform.testhost.17.14.1.nupkg.sha512",
+    "C:\\Users\\madhavan.ramalingam\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512",
     "C:\\Users\\madhavan.ramalingam\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\madhavan.ramalingam\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
     "C:\\Users\\madhavan.ramalingam\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",

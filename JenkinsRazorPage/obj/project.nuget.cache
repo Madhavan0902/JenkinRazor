@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "m95G8znYX/g=",
+  "dgSpecHash": "ZROjcS/GZpQ=",
   "success": true,
   "projectFilePath": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinsRazorPage\\JenkinsRazorPage\\JenkinsRazorPage.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\madhavan.ramalingam\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
   "logs": []
 }

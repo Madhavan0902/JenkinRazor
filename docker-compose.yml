@@ -1,0 +1,6 @@
+services:
+  jenkinsrazorpage:
+    image: ${DOCKER_REGISTRY-}jenkinsrazorpage
+    build:
+      context: .
+      dockerfile: JenkinsRazorPage/Dockerfile

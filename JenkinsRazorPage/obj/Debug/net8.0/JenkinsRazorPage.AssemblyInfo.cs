@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("1a0a9152-2cc6-473d-a9f2-9b4f1b61596e")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("JenkinsRazorPage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ceae17afabdd054ecd77675e73c564d94fde71c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c864209678af8722f4b9e94d2ab38aa9bf2cc315")]
 [assembly: System.Reflection.AssemblyProductAttribute("JenkinsRazorPage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JenkinsRazorPage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

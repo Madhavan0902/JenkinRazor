@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36221.1 d17.14
+VisualStudioVersion = 17.14.36221.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsRazorPage", "JenkinsRazorPage\JenkinsRazorPage.csproj", "{AB09405B-A19A-402B-9013-50FA9A705FB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPageNunitTest", "RazorPageNunitTest\RazorPageNunitTest.csproj", "{46D1F884-0146-4D10-A25D-9AF435853EE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{AB09405B-A19A-402B-9013-50FA9A705FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB09405B-A19A-402B-9013-50FA9A705FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB09405B-A19A-402B-9013-50FA9A705FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D1F884-0146-4D10-A25D-9AF435853EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D1F884-0146-4D10-A25D-9AF435853EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D1F884-0146-4D10-A25D-9AF435853EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D1F884-0146-4D10-A25D-9AF435853EE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -31,3 +31,4 @@ D:\Tools\Project\Assessments\Jenkins\JenkinsRazorPage\JenkinsRazorPage\obj\Debug
 D:\Tools\Project\Assessments\Jenkins\JenkinsRazorPage\JenkinsRazorPage\obj\Debug\net8.0\JenkinsRazorPage.pdb
 D:\Tools\Project\Assessments\Jenkins\JenkinsRazorPage\JenkinsRazorPage\obj\Debug\net8.0\JenkinsRazorPage.genruntimeconfig.cache
 D:\Tools\Project\Assessments\Jenkins\JenkinsRazorPage\JenkinsRazorPage\obj\Debug\net8.0\ref\JenkinsRazorPage.dll
+D:\Tools\Project\Assessments\Jenkins\JenkinsRazorPage\JenkinsRazorPage\obj\Debug\net8.0\JenkinsRazorPage.sourcelink.json

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JenkinsRazorPage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c864209678af8722f4b9e94d2ab38aa9bf2cc315")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd8f7ec865a5191b737a9c87eec74ae2994ed075")]
 [assembly: System.Reflection.AssemblyProductAttribute("JenkinsRazorPage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JenkinsRazorPage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
